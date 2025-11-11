@@ -13,7 +13,7 @@ public class BubbleSort {
         }
     }
     
-    public void bubbleSortByPerson(String[] nombres){
+    public void bubbleSortByName(String[] nombres){
         for (int i = 0; i < nombres.length - 1; i++){
             for(int j = i+1; j < nombres.length; j++){
                 if(nombres[i].compareTo(nombres[j]) > 0){
