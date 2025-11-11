@@ -3,5 +3,10 @@
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
+<<<<<<< HEAD
     ]
+=======
+    ],
+    "git.ignoreLimitWarning": true
+>>>>>>> c0aa559a1bcead8f132396bf9a55e01a7f2efcfb
 }
